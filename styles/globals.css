@@ -636,6 +636,7 @@ margin-top: 160px;
   .footer-banner-container{
     height: 580px;
     margin-top: 80px;
+    line-height: 0.7;
   }
  .footer-banner-image{
    position: absolute;
