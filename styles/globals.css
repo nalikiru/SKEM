@@ -168,7 +168,7 @@ width: 100%;
   text-transform: uppercase;
 }
 .hero-banner-image{
-  position: absolute;
+  position: flex;
   top: 10%;
   right:20%;
   width: 350px;
@@ -249,7 +249,7 @@ text-align: end;
   margin:18px;
 }
 .footer-banner-image{
-  position: absolute;
+  position: flex;
   /* top: -35%;
   left: 8%; */
   top: -25%;
